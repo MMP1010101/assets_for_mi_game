@@ -1,0 +1,1 @@
+# assets_for_mi_game
